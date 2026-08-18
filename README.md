@@ -1,0 +1,2 @@
+The main logic of this project is base on [vsdxeditor](https://github.com/Kreijstal/vsdxeditor). If you want more accurate rendering of svg and you are familiar with C++, I recommend using the [libvisio](https://github.com/LibreOffice/libvisio) to parse vsdx and using the [LibreOffice-Core](https://github.com/LibreOffice/core) to render svg 
+(the main files are [svgexport.cxx](https://github.com/LibreOffice/core/blob/master/filter/source/svg/svgexport.cxx) and [svgwriter.cxx](https://github.com/LibreOffice/core/blob/master/filter/source/svg/svgwriter.cxx)).
