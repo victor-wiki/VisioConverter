@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="VisioConverter.Viewer/VisioConverter.Viewer.csproj" Id="736a4468-b6b6-4019-a634-ac395f2ac814" />
+  <Project Path="VisioConverter/VisioConverter.csproj" />
+</Solution>
